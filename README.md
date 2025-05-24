@@ -1,1 +1,1 @@
-A project on style transfer with open-weight LLMs using ICL, DPO, and guided generation. [LambdaG](https://github.com/macleginn/lambdag) is used as a main tool for evaluating stylistic imitation and for guided generation.
+A project on style transfer with open-weight LLMs using ICL, DPO, and guided generation. [LambdaG](https://github.com/macleginn/lambdag) is used as the main tool for evaluating stylistic imitation and for guided generation.
